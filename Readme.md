@@ -19,8 +19,8 @@
 
 #### It took around 1.5 hr to build
 
-- [Live Link](https://plant-home-page-6.netlify.app/)
+- # [Live Link](https://plant-home-page-6.netlify.app/)
 
-#
+
 
 ![Screenshots](/photos/thumbnail.png)
